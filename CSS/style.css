@@ -1,0 +1,399 @@
+body {
+    background-color: #ffffff;
+    padding: 20px 40px 20px 30px;
+}
+
+header {
+    color:  #6a6356;
+    padding-bottom: 50px; 
+}
+
+header h1 {
+    font-size: 25px;
+}
+
+header h1 span {
+    color: #3b3322;
+    font-weight: 800;
+}
+
+header ul {
+    float: right;
+    display: inline-block;
+}
+
+header ul li {
+    float: left;
+    padding: 5px;
+
+}
+
+header ul li span {
+    color: #00d09c;
+}
+
+
+
+
+/* SECTION-A */
+
+
+
+.section-a {
+    
+}
+
+.section-a .text1 {
+    margin-top: 80px;
+    margin-right: 80px;
+}
+
+.section-a .text1 h1 {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    color: #222222;
+}
+
+.section-a .text1 h1 span {
+    color:  #00d09c;
+    border-bottom: 2px solid  #00d09c;
+    padding-bottom: -3px;
+}
+
+.section-a .text1 p {
+    font-size: 20px;
+    position: relative;
+    line-height: 25px;
+}
+
+.section-a .text1 h2 {
+    display: inline-block;
+    background-color:  #00d09c;
+    color: #ebebeb;
+    padding: 12px 50px 12px 30px;
+    font-size: 20px;
+    border-radius: 3%;
+
+}
+ 
+.section-a .island {
+     height: auto;
+     width: 100%;
+    
+}
+
+.section-a .island img {
+    height: 400px;
+    max-width: 100%;
+    display: block;
+} 
+
+
+/* SECTION B */
+
+
+.section-b .grid-container {
+    margin-top: 80px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    display: inline-flex;
+}
+
+.section-b .clip {
+   
+    height: auto;
+    width: 100%;
+    padding-right: 5px;
+   
+}
+
+.section-b .clip img {
+    height: 60px;
+    max-width: 100%;
+    display: block;
+    background-color: rgb(243, 243, 243);
+    padding: 70px 200px 70px 125px;
+}
+
+.section-b .clip2 {
+    height: auto;
+    width: 100%;
+    padding-right: 5px;
+    
+}
+
+.section-b .clip2 img {
+    height: 60px;
+    max-width: 100%;
+    display: block;
+    background-color:  #00d09c;
+    padding: 70px 200px 70px 125px;
+}
+
+.section-b h1 {
+    font-size: 20px;
+    font-weight: 800;
+    position: relative;
+    right: -200px;
+    top: -110px;
+    
+}
+
+
+/* SECTION C */
+
+
+.section-c .grid-container{
+margin-top: 80px;
+}
+
+.section-c .boat {
+    height: auto;
+    width: 100%;
+    margin-right: 0px;
+}
+
+.section-c .boat img {
+    height: 400px;
+    max-width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.section-c .boat-details {
+    line-height: 30px;
+}
+
+.section-c .boat-details h1{
+    display: inline-block;
+    background-color:  #00d09c;
+    color: #ebebeb;
+    padding: 12px 50px 12px 20px;
+    font-size: 25px;
+    font-weight: 300;
+    border-top-right-radius: 12%;
+    border-top-left-radius: 10%;
+}
+
+.section-c .boat-details h2 {
+    display: inline-block;
+    background-color:  #4e4e4e;
+    color: #ebebeb;
+    padding: 12px 80px 12px 20px;
+    font-size: 30px;
+    font-weight: 300;
+    border-top-right-radius: 9%;
+    border-bottom-right-radius: 9%;
+    border-bottom-left-radius: 7%;
+}
+
+.section-c .boat-details p {
+    font-size: 15px;
+    color: #222222;
+}
+
+.section-c .boat-details h3 {
+    display: inline-block;
+    background-color:  #00d09c;
+    color: #ebebeb;
+    padding: 5px 30px 5px 30px;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 2%;
+}
+
+
+
+/* SECTION D */
+
+.section-d {
+    background-color: #f3f3f3;
+    margin-top: 80px;
+    height: 450px;
+}
+
+ .section-d h1 {
+     
+     font-size: 25px;
+     font-weight: 700;
+     padding-top: 40px;
+     padding-bottom: 0px;
+     text-align: center;
+     
+ }
+
+.section-d hr {
+    border: 2px solid #00d09c;
+    width: 90px;
+    justify-content: center;
+}
+
+ .section-d .grid-container{
+    margin-top: 40px;
+    padding: 0px 20px 20px 192px;
+ }
+
+ .section-d .grid-container .boat-model {
+    height: auto;
+    width: 100%;
+ }
+
+ .section-d .grid-container .boat-model img {
+    height: 150px;
+    max-width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.section-d .grid-container h2 {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    background-color:  #4e4e4e;
+    color: #ebebeb;
+    padding: 7px 50px 7px 15px ;
+    border-top-right-radius: 37%;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 37%;
+
+
+}
+
+.section-d .grid-container h3 {
+    display: block;
+    width: 80px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color:  #00d09c;
+    color: #ebebeb;
+    padding: 7px 20px 7px 5px;
+    border-bottom-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
+
+
+
+/* SECTION E */
+
+
+.section-e .grid-container {
+    position: relative;
+    padding: 100px 100px 80px 80px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.section-e .grid-container h1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.section-e .grid-container h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.section-e .grid-container p {
+    font-size: 17px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.section-e .grid-container .content {
+    
+}
+
+.section-e .grid-container .content .appstore {
+    margin-right: px;
+}
+
+.section-e .grid-container .content .appstore h3 {
+    display: inline-block;
+    background-color: black;
+    color: #ebebeb;
+    line-height: 25px;
+    padding: 6px 15px 6px 55px;
+    position: relative;
+    margin-right: 0px;
+}
+
+.section-e .grid-container .content .appstore h3 span {
+    
+    font-size: 30px;
+    color: ;
+}
+
+.section-e .grid-container .content .appstore i {
+    position: absolute;
+    font-size: 45px;
+    left: 1px;
+    top: 20px;
+    color: #ebebeb;
+    
+}
+
+
+
+.section-e .grid-container .content .google h3 {
+    display: inline-block;
+    background-color: black;
+    color: #ebebeb;
+    line-height: 25px;
+    padding: 6px 5px 6px 55px;
+    position: relative;
+    margin-right: 0px;
+}
+
+.section-e .grid-container .content .google h3 span {
+    
+    font-size: 30px;
+    color: ;
+}
+.section-e .grid-container .content .google i {
+    position: absolute;
+    font-size: 45px;
+    left: 1px;
+    top: 20px;
+    color: #ebebeb;
+    
+}
+
+
+
+
+/* FOOTER */
+
+
+footer {
+    color:  #6a6356;
+    padding-bottom: 50px; 
+}
+
+footer h1 {
+    font-size: 25px;
+}
+
+footer h1 span {
+    color:  #00d09c;
+    font-weight: 800;
+}
+
+footer ul {
+    float: right;
+    display: inline-block;
+}
+
+footer ul li {
+    float: left;
+    padding: 5px;
+
+}
+
+footer ul li span {
+    color: #00d09c;
+}
